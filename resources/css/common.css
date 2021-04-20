@@ -1,8 +1,8 @@
 @charset "UTF-8"; /*@charset "euc-kr"; */
 
 /*UI CSS*/
-@import url("/resources/css/ui/selectric_default.css");
-@import url("/resources/css/ui/scrollbar.css");
+@import url("/common/resources/css/ui/selectric_default.css");
+@import url("/common/resources/css/ui/scrollbar.css");
 
 /************************************************************************
  * 최적화       : html5
